@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { FaAngleRight } from "react-icons/fa";
 
 const ProductsCard = () => {
@@ -11,13 +12,13 @@ const ProductsCard = () => {
         />
 
         <h4 className="audio-products-h4">headphones</h4>
-        <a
-          href="headphones.html"
+        <Link
+          to="/headphones"
           className="audio-products-h4-link audio-products-h4-link"
         >
           shop
           <FaAngleRight />
-        </a>
+        </Link>
       </div>
       <div className="audio-products audio-products-container">
         <img
@@ -26,12 +27,12 @@ const ProductsCard = () => {
           alt="speakers"
         />
         <h4 className="audio-products-h4">speakers</h4>
-        <a href="speakers.html" className="audio-products-h4-link">
+        <Link to="/speakers" className="audio-products-h4-link">
           shop
           <span>
             <FaAngleRight />
           </span>
-        </a>
+        </Link>
       </div>
 
       <div className="audio-products">
@@ -42,12 +43,12 @@ const ProductsCard = () => {
         />
 
         <h4 className="audio-products-h4">earphones</h4>
-        <a href="earphones.html" className="audio-products-h4-link">
+        <Link to="/earphones" className="audio-products-h4-link">
           shop
           <span>
             <FaAngleRight />
           </span>
-        </a>
+        </Link>
       </div>
     </section>
   );
