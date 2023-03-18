@@ -16,8 +16,11 @@ const App = () => {
     createRoutesFromElements(
       <Route path="/" element={<Root />}>
         <Route path="/" element={<Home />} />
-        <Route path=":productsId" element={<Product />} />
-        <Route path=":productsId/:singleProductId" element={<Headphone />} />
+        <Route path=":productCategory" element={<Product />} />
+        <Route
+          path=":productCategory/:singleProductId"
+          element={<Headphone />}
+        />
         <Route path="checkout" element={<Checkout />} />
       </Route>
     )
