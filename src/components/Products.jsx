@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 const Products = () => {
   return (
     <section className="speaker-earphone-link container">
@@ -17,24 +18,18 @@ const Products = () => {
             Upgrade to premium speakers that are phenomenally built to deliver
             truly remarkable sound.
           </p>
-          <a
-            href="speaker-product-1.html"
-            className="speaker-1-see-product see-product"
-          >
+          <Link to="#" className="speaker-1-see-product see-product">
             see product
-          </a>
+          </Link>
         </div>
       </div>
 
       <div className="speaker-2-wrap">
         <div className="speaker-2-content">
           <h4 className="product-h4">ZX7 Speaker</h4>
-          <a
-            href="speaker-product-2.html"
-            className="see-product-link see-product"
-          >
+          <Link to="#" className="see-product-link see-product">
             see product
-          </a>
+          </Link>
         </div>
       </div>
 
@@ -49,12 +44,9 @@ const Products = () => {
 
         <div className="earphone-1-content">
           <h4 className="product-h4">YX1 Earphones</h4>
-          <a
-            href="earphone-product-1.html"
-            className="see-product-link see-product"
-          >
+          <Link to="#" className="see-product-link see-product">
             see product
-          </a>
+          </Link>
         </div>
       </div>
     </section>

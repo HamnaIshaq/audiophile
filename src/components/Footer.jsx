@@ -1,3 +1,4 @@
+import { Link, NavLink } from "react-router-dom";
 import { FaFacebookSquare, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
@@ -6,29 +7,29 @@ const Footer = () => {
       <div className="footer-container container">
         <div className="footer-logo-nav footer-logo-nav-flex">
           <h1 className="audiophile-logo footer-audiophile-logo">
-            <a href="index.html">audiophile</a>
+            <Link to="/">audiophile</Link>
           </h1>
           <nav className="nav footer-nav">
             <ul className="nav-list nav-list-flex footer-nav-list-flex">
               <li className="nav-list-item footer-nav-list-item">
-                <a className="nav-link" href="index.html">
+                <NavLink className="nav-link" to="/">
                   Home
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item footer-nav-list-item">
-                <a className="nav-link" href="headphones.html">
+                <NavLink className="nav-link" to="/headphones">
                   Headphones
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item footer-nav-list-item">
-                <a className="nav-link" href="speakers.html">
+                <NavLink className="nav-link" to="/speakers">
                   Speakers
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item footer-nav-list-item">
-                <a className="nav-link" href="earphones.html">
+                <NavLink className="nav-link" to="/earphones">
                   Earphones
-                </a>
+                </NavLink>
               </li>
             </ul>
           </nav>
@@ -43,15 +44,15 @@ const Footer = () => {
 
         <div className="footer-copyright-socials footer-copyright-socials-flex">
           <nav className="social-links-nav">
-            <a className="social-links" href="#">
+            <Link className="social-links" to="#">
               <FaFacebookSquare className="fa-2x" />
-            </a>
-            <a className="social-links" href="#">
+            </Link>
+            <Link className="social-links" to="#">
               <FaTwitter className="fa-2x" />
-            </a>
-            <a className="social-links" href="#">
+            </Link>
+            <Link className="social-links" to="#">
               <FaInstagram className="fa-2x" />
-            </a>
+            </Link>
           </nav>
 
           <p className="footer-copyright">

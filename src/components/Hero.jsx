@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 const Hero = () => {
   return (
     <section className="hero-section">
@@ -11,12 +13,9 @@ const Hero = () => {
             Experience natural, lifelike audio and exceptional build quality
             made for the passionate music enthusiast.
           </p>
-          <a
-            href="headphone-product-1.html"
-            className="hero-see-product see-product"
-          >
+          <Link to="#" className="hero-see-product see-product">
             see product
-          </a>
+          </Link>
         </div>
         <div className="hero-img">
           <img
