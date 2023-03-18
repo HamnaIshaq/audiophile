@@ -1,44 +1,37 @@
+import { Link, NavLink } from "react-router-dom";
+import { FaBars } from "react-icons/fa";
+
 const Header = () => {
   return (
     <header>
       <div className="header-container header-container-flex container">
         <h1 className="audiophile-logo">
-          <a href="index.html">audiophile</a>
+          <Link to="/">audiophile</Link>
         </h1>
         <div className="header-nav-container">
-          <svg
-            className="menu-svg"
-            id="menu-svg"
-            viewBox="0 0 90 60"
-            width="25"
-            height="25"
-          >
-            <rect width="100" height="15"></rect>
-            <rect y="30" width="100" height="15"></rect>
-            <rect y="60" width="100" height="15"></rect>
-          </svg>
+          <FaBars className="menu-svg fa-2x" id="menu-svg" />
 
           <nav className="nav nav-flex">
             <ul className="nav-list nav-list-flex hide">
               <li className="nav-list-item">
-                <a className="nav-link" href="index.html">
+                <NavLink className="nav-link" to="/">
                   Home
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item">
-                <a className="nav-link" href="headphones.html">
+                <NavLink className="nav-link" to="/headphones">
                   Headphones
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item">
-                <a className="nav-link" href="speakers.html">
+                <NavLink className="nav-link" to="/speakers">
                   Speakers
-                </a>
+                </NavLink>
               </li>
               <li className="nav-list-item">
-                <a className="nav-link" href="earphones.html">
+                <NavLink className="nav-link" to="/earphones">
                   Earphones
-                </a>
+                </NavLink>
               </li>
             </ul>
           </nav>
