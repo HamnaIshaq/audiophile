@@ -130,6 +130,10 @@ header {
   color: var(--beige);
 }
 
+a.active {
+  color: var(--beige);
+}
+
 /* Cart styling */
 
 .cart-container {
@@ -1039,6 +1043,16 @@ footer {
 .tablet-img,
 .desktop-img {
   display: none;
+}
+
+.products-left {
+  order: 1;
+  margin-left: 0 !important;
+  margin-right: 6em;
+}
+
+.products-right {
+  order: 2;
 }
 
 /* Tablet */
