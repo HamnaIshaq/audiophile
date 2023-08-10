@@ -1,4 +1,8 @@
-# React + Vite
+# Audiophile
+
+## Attribution
+
+<a href="https://www.flaticon.com/free-icons/side-bar" title="side bar icons">Side bar icons created by exomoon design studio - Flaticon</a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
