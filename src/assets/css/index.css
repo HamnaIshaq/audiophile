@@ -20,6 +20,7 @@ html {
   --bluishGray: rgb(100, 116, 116);
   --bluishPurple: rgb(100, 108, 124);
   --white: rgb(255, 255, 255);
+  --red: rgb(219, 27, 27);
 }
 
 img {
@@ -1244,6 +1245,10 @@ h5 {
 
 /* Checkout form styling */
 
+.grid-container {
+  display: grid;
+}
+
 .checkout-container,
 .order-summary-container {
   margin: 0 auto;
@@ -1286,6 +1291,7 @@ input {
   border: 1px solid var(--darkGray);
   border-radius: 3px;
   padding: 1em 0 1em 0.7em;
+  width: 100%;
 }
 
 .input:focus {
@@ -1364,4 +1370,17 @@ input[type="radio"]:focus + .payment-mode::before {
 
 .hide-info {
   display: none;
+}
+
+/*
+  ERROR FIELD STYLING
+*/
+
+.invalid-text-color,
+.required {
+  color: var(--red);
+}
+
+.invalid-input {
+  border: 2px solid var(--red);
 }
