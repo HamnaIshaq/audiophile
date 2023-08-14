@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="Page-1" id="OPFkoRVHyZDK5QB1XnAA">
-        <mxGraphModel dx="741" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="738" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -19,7 +19,7 @@
                 <mxCell id="xqrHq-MUzXLIHpFeDrUa-4" value="Headphone links &lt;br&gt;(a tags)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="170" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqrHq-MUzXLIHpFeDrUa-6" target="xqrHq-MUzXLIHpFeDrUa-65">
+                <mxCell id="2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqrHq-MUzXLIHpFeDrUa-6" target="xqrHq-MUzXLIHpFeDrUa-65" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="xqrHq-MUzXLIHpFeDrUa-6" value="Show products of category headphones" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -113,11 +113,29 @@
                 <mxCell id="xqrHq-MUzXLIHpFeDrUa-62" value="Let the user know product has been added to cart by opening the cart and showing the added product in cart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="530" y="780" width="160" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqrHq-MUzXLIHpFeDrUa-65" target="xqrHq-MUzXLIHpFeDrUa-2">
+                <mxCell id="3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xqrHq-MUzXLIHpFeDrUa-65" target="xqrHq-MUzXLIHpFeDrUa-2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="xqrHq-MUzXLIHpFeDrUa-65" value="Pass category to next page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="390" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="920" width="260" height="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Billing Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="940" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Checkout Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="840" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="940" width="80" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="Continue &amp;amp; Pay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="1000" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png" vertex="1" parent="1">
+                    <mxGeometry x="480" y="1020" width="40" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
