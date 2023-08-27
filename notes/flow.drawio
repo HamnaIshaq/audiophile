@@ -1,6 +1,188 @@
 <mxfile host="65bd71144e">
+    <diagram id="zW_jbeA7w9tYTV-nCfxG" name="Main functionality">
+        <mxGraphModel dx="738" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="80" width="520" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Headphone&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Speaker&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Earphone&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-2" style="edgeStyle=none;html=1;fontSize=14;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="tVNxL8NjUxVsQgDM3Ygi-4" target="tVNxL8NjUxVsQgDM3Ygi-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png;imageBorder=none;fontSize=14;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="160" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="310" width="520" height="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="tVNxL8NjUxVsQgDM3Ygi-7" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Headphone&lt;br&gt;Img&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="350" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Title&lt;br&gt;Basic description&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="350" width="280" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="550" width="520" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-4" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Headphone&lt;br&gt;Img&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="590" width="120" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-5" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="590" width="280" height="130" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;See Product&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-8" style="edgeStyle=none;html=1;entryX=0.536;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="F_d7IAEaWXCqxeVJ7ETg-7" target="F_d7IAEaWXCqxeVJ7ETg-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png;imageBorder=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="450" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Title&lt;br&gt;Basic Description&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="590" width="280" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;$10&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="650" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;-&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="680" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;1&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="680" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;+&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="680" width="50" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Add to Cart&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="680" width="90" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-15" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Features&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="740" width="260" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-16" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Box contents&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="740" width="140" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-31" style="edgeStyle=none;html=1;entryX=0.536;entryY=-0.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="F_d7IAEaWXCqxeVJ7ETg-17" target="F_d7IAEaWXCqxeVJ7ETg-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png;imageBorder=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="525" y="700" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="920" width="520" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-21" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="980" width="300" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-22" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Img&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1010" width="70" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;$10&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1040" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;-&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="1025" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;1&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="1025" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-26" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;+&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="1025" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-27" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&amp;nbsp; &amp;nbsp;Total&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;$10&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1130" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-32" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="920" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-33" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Title&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="390" y="1010" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Checkout&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="1170" width="260" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-49" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;fontSize=14;fontColor=#000000;" edge="1" parent="1" source="F_d7IAEaWXCqxeVJ7ETg-36" target="F_d7IAEaWXCqxeVJ7ETg-37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-36" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png;imageBorder=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="1190" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="1280" width="520" height="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-38" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1340" width="250" height="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-45" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="1280" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-50" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Checkout&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1340" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-51" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Billing Details&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1380" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-52" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Shipping Info&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1420" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-53" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Payment Details&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="1460" width="250" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-54" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1340" width="170" height="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-55" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Summary&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1340" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-56" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Img&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="1400" width="50" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-57" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Title&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="1400" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-58" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;x1&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="1400" width="40" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-59" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;$10&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="1420" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-60" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Total&amp;nbsp; &amp;nbsp;$10&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1460" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-61" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Shipping&amp;nbsp; &amp;nbsp;$5&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1480" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-62" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Grand Total&amp;nbsp; $15&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1520" width="170" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-63" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Continue &amp;amp; Pay&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="1550" width="170" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-64" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="310" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-65" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="80" width="80" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="F_d7IAEaWXCqxeVJ7ETg-66" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cart&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="550" width="80" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
     <diagram name="Page-1" id="OPFkoRVHyZDK5QB1XnAA">
-        <mxGraphModel dx="738" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="738" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -119,22 +301,22 @@
                 <mxCell id="xqrHq-MUzXLIHpFeDrUa-65" value="Pass category to next page&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="290" y="920" width="260" height="170" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Billing Details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="6" value="Billing Details" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="940" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="Checkout Flow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="9" value="Checkout Flow" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="340" y="840" width="130" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="11" value="Summary" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" y="940" width="80" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Continue &amp;amp; Pay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="12" value="Continue &amp;amp; Pay" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="460" y="1000" width="80" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png" vertex="1" parent="1">
+                <mxCell id="8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/open-select-hand-gesture-128.png" parent="1" vertex="1">
                     <mxGeometry x="480" y="1020" width="40" height="40" as="geometry"/>
                 </mxCell>
             </root>
