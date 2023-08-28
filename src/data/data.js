@@ -2,14 +2,32 @@ export const productCategories = [
   {
     id: 1,
     name: "headphones",
+    slug: "headphones",
+    image: {
+      mobile: "/images/xx99-mark-I-headphones-mobile.png",
+      tablet: "/images/xx99-mark-I-headphones-tablet.png",
+      desktop: "/images/xx99-mark-I-headphones-desktop.png",
+    },
   },
   {
     id: 2,
     name: "speakers",
+    slug: "speakers",
+    image: {
+      mobile: "/images/zx9-speakers-mobile.png",
+      tablet: "/images/zx9-speakers-tablet.png",
+      desktop: "/images/zx9-speakers-desktop.png",
+    },
   },
   {
     id: 3,
     name: "earphones",
+    slug: "earphones",
+    image: {
+      mobile: "/images/yx1-wireless-earphones-mobile.png",
+      tablet: "/images/yx1-wireless-earphones-tablet.png",
+      desktop: "/images/yx1-wireless-earphones-desktop.png",
+    },
   },
 ];
 
