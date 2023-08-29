@@ -4,4 +4,8 @@ const getCategoryProducts = (category) => {
   return data.filter((product) => product.category === category);
 };
 
-export { getCategoryProducts };
+const getSelectedProductDetails = (selectedProduct) => {
+  return data.filter((product) => product.slug === selectedProduct);
+};
+
+export { getCategoryProducts, getSelectedProductDetails };
