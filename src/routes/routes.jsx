@@ -1,6 +1,8 @@
 import { createBrowserRouter } from "react-router-dom";
-import Products from "../pages/Products";
+
 import Home from "../pages/Home";
+import Products from "../pages/Products";
+import Index from "../pages/ProductAbout/index";
 
 export const router = createBrowserRouter([
   {
@@ -13,6 +15,6 @@ export const router = createBrowserRouter([
   },
   {
     path: "/category/:slug/:productSlug",
-    element: <div>selected product details will be shown here</div>,
+    element: <Index />,
   },
 ]);
